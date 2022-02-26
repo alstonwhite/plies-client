@@ -1,3 +1,36 @@
+# plies nft
+
+This repo holds the frontent minting website for the plies NFT project. The repo with smart contracts can be found [here](https://github.com/alstonwhite/plies-contracts).
+
+The plies NFT project was guided by [Buildspace](https://buildspace.so/).
+
+## Deployed Site
+
+Check out the deployed site [here](https://nft-starter-project.alstonwhite.repl.co).
+
+## Installation and Usage
+
+To run this on your local machine, clone this project and insall dependencies with the below:
+
+```
+git clone https://github.com/alstonwhite/plies-client
+npm install
+```
+
+In the project directory, you can run the following scripts:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
+
+***
+
+This project was originally build and deployed through Replit, see notes below for usage with Replit:
+
 ## Running React on Repl.it
 
 [React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
