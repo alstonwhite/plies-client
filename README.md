@@ -1,4 +1,11 @@
-# plies nft
+# plies nft collection
+
+Plies in a completely on chain NFT project.
+
+> The Shannon number is a conservative lower bound of the game-tree complexity of chess of 10120, the number of possible unique games.
+> This collection represents the first move, or pair of **plies**, accounting for 40 possible outcomes.
+
+The plies NFT metadata is rendered completely on chain as a base64 encoded data uri -- the image is a base64 encoded svg that is generated and rendered on chain.
 
 This repo holds the frontent minting website for the plies NFT project. The repo with smart contracts can be found [here](https://github.com/alstonwhite/plies-contracts).
 
@@ -29,7 +36,7 @@ You will also see any lint errors in the console.
 
 ***
 
-This project was originally build and deployed through Replit, see notes below for usage with Replit:
+This project was originally built and deployed through Replit, see notes below for usage with Replit:
 
 ## Running React on Repl.it
 
